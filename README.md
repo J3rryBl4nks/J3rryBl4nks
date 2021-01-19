@@ -1,5 +1,5 @@
 I'm an infosec engineer who loves hacking things. I love cracking passwords, privesc, and finding unintended paths to turn into software exploits.
-I'm active in the #Infosec-Prep and #HackTheBox discords under this same name.
+I'm active in the #Infosec-Prep discord under this same name.
 
 Feel free to email me j3rrybl4nks@protonmail.com to ask about anything hosted in my github.
 
